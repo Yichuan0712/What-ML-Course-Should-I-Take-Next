@@ -23,7 +23,7 @@ Here are some recommendations for future machine learning courses at CMU from cu
 ## Theory
 
 - **10-425/625 Introduction to Convex Optimization**  
-  This is the undergrad / MS equivalent to 10-725. It is new as of Fall 2023. Course website here.
+  This is the undergrad / MS equivalent to 10-725. It is new as of Fall 2023. Course website [here](https://www.cs.cmu.edu/~mgormley/courses/10425/).
 
 - **10-725 Convex Optimization**  
   The “spirit” of convex optimization AND non-convex optimization. Pretty heavy on the math side, but the class is structured super well in terms of assessments and is sort of the basis for basically all of ML. If you liked the GD/SGD stuff from earlier this course, you’ll probably enjoy this class. Mostly written math, with a few small coding assignments.  
